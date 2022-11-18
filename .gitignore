@@ -3,3 +3,4 @@ build/
 test.cpp
 test.ipynbs
 CMakeLists.txt 
+algorithm/
