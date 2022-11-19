@@ -13,7 +13,8 @@ vector<int> collatz(int k){
     return y;
 }
 
-double integral(vector<int> y, vector<int> range){
+double integral(const vector<int>& y, const vector<int>& range){
+
     int a = range[0];
     int b = y.size() + range[1] - 1;
     if (b < a) return -1.0;
