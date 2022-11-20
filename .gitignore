@@ -1,6 +1,6 @@
 .vscode/
 build/
 test.cpp
-test.ipynbs
+test.ipynb
 CMakeLists.txt 
 algorithm/
